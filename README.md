@@ -1,5 +1,8 @@
 ### Hi there 👋
 I’m currently learning C#,C++,Python
+I’m looking for help with internship
+How to reach me: erenkaynar01@gmail.com
+
 <!--
 **erenkaynarr/erenkaynarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
